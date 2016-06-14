@@ -15,7 +15,6 @@ public class SimplePlatformController : MonoBehaviour
 	private Animator anim;
 	private Rigidbody2D rb2d;
 
-	// Use this for initialization
 	void Awake()
 	{
 		anim = GetComponent<Animator>();
